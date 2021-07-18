@@ -1,4 +1,10 @@
 helo all
 how are u
 
+<<<<<<< HEAD
 hello what are u doing?
+=======
+i am good
+how about you?
+good
+>>>>>>> master1
